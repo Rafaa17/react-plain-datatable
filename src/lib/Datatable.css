@@ -1,0 +1,32 @@
+.datatable-container{
+  /*overflow: auto;*/
+}
+
+.datatable-col{
+  padding: 20px;
+  /*border: 1px solid red;*/
+}
+
+.datatable-row{
+  /*border: 1px solid red;*/
+  /*flex-wrap: nowrap;*/
+}
+
+.datatable-header-row{
+  border-bottom: 2px double gray;
+  font-weight: bold;
+  /*flex-wrap: nowrap;*/
+}
+
+.datatable-header-body-wrapper{
+  /*overflow: auto;*/
+}
+
+.datatable-body-row{
+  border-bottom: 0.5px double lightgray;
+  transition: 0.2s ease;
+}
+
+.datatable-footer{
+  margin-top: 20px;
+}
