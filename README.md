@@ -2,7 +2,7 @@
 
 react-plain-datatable is a plain Typed React package for dealing with datatables.
 
-![Alt text](samples/screenshot.png?raw=true "Title")
+![Alt text](samples/screenshot.PNG?raw=true "Title")
 
 ## Installation
 
